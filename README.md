@@ -13,7 +13,7 @@ TODO:
 
 - [ ] find new method to guarantee convergence to global minima
 
-## Euclidean Example
+## Example
 
 Given a connected finite tree that looks like this:
 
@@ -35,6 +35,8 @@ loss = L2_loss(space_distance_matrix, tree_distance_matrix)
 And so now we minimise loss w.r.t. embedding vectors of vertices using SGD. 
 (note: space_distance depends on embedding vectors, tree_distance stays constant)
 
+## Euclidean Embedding
+
 We then have:
 
 ![alt text][euclid_tree]
@@ -43,7 +45,7 @@ with loss = 7.166, and the space distance matrix look like:
 
 ![alt text][euclid_dist_matrix]
 
-## Hyperbolic Example
+## Hyperbolic Embedding
 
 Using Riemannian SGD, we can also find the optimal embedding in Hyperbolic space. We then have:
 
