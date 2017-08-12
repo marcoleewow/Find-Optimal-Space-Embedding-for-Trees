@@ -65,4 +65,4 @@ This shows that embedding trees in Euclidean space is not as efficient as in Hyp
 [euclid_tree]: https://github.com/marcoleewow/Find-Optimal-Space-Embedding-for-Trees/blob/master/images/euclid_tree.png "euclid_tree"
 [euclid_dist_matrix]: https://github.com/marcoleewow/Find-Optimal-Space-Embedding-for-Trees/blob/master/images/euclid_dist_matrix.png "euclid_dist_matrix"
 [hyp_tree]: https://github.com/marcoleewow/Find-Optimal-Space-Embedding-for-Trees/blob/master/images/hyp_tree.png "hyp_tree"
-[hyp_dist_matrix]: https://github.com/marcoleewow/Find-Optimal-Space-Embedding-for-Trees/blob/master/images/euclid_dist_matrix.png "hyp_dist_matrix"
+[hyp_dist_matrix]: https://github.com/marcoleewow/Find-Optimal-Space-Embedding-for-Trees/blob/master/images/hyp_dist_matrix.png "hyp_dist_matrix"
